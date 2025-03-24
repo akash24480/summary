@@ -186,3 +186,7 @@
 .animate-gradient-x{
   animation: gradient-x 3s ease infinite;
 }
+
+.no-underline {
+  text-decoration: none !important;
+}
