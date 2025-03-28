@@ -26,6 +26,10 @@ export default function DemoSection(){
            
             <h3 className="font-bold text-3xl max-w-2xl mx-auto px-4 sm:px-6">Watch how Summary transforms <span className="bg-linear-to-r from-rose-500 to-rose-700 bg-clip-text text-transparent"> this Next.js course PDF </span> into an easy-to-read summary!</h3>
             </div>
+
+            <div className="flex justify-center items-center px-2 sm:px-4 lg:px-6">
+                    {/* {summary viewer} */}
+            </div>
             </div>
         </section>
     )
